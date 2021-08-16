@@ -1,5 +1,7 @@
 # Hello, I’m Anish Punaroor! 
-#### I am a rising junior at UC San Diego, majoring in Computer Engineering. I am passionate about computer science education and game development, and I currently work as a programming instructor at theCoderSchool. 
+#### I am a rising junior at UC San Diego, majoring in Computer Engineering. 
+
+I am passionate about computer science education and game development, and I currently work as a programming instructor at theCoderSchool. 
 
 
 <!---
