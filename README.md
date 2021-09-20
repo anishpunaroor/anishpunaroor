@@ -1,6 +1,9 @@
 # Hello, I’m Anish Punaroor! 
 
-I'm an incoming third year computer engineering major at UC San Diego. Currently, I've been working on full-stack web and game development projects. 
+I'm an incoming third year computer engineering major at UC San Diego. 
+
+Recently, I've been working on full-stack web and game development projects.
+
 Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family. Thanks for viewing my profile!
 
 
