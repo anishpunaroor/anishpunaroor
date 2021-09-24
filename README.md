@@ -2,7 +2,7 @@
 
 I'm an incoming third year computer engineering major at UC San Diego. 
 
-Recently, I've been working on full-stack web and game development projects.
+Recently, I've been working on web (front-end and full-stack) and game development projects.
 
 Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family. Thanks for viewing my profile!
 
