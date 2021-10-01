@@ -1,6 +1,6 @@
 # Hello, I’m Anish Punaroor! 
 
-![Alt Text](https://gfycat.com/knobbyrepentantjumpingbean-trendizisst-morning-waving-hello-howdy-good-cats)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
