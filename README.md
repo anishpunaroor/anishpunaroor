@@ -1,5 +1,7 @@
 # Hello, I’m Anish Punaroor! 
 
+![Alt Text](https://thumbs.gfycat.com/KnobbyRepentantJumpingbean-mobile.mp4)
+
 I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
 
 Recently, I've been working on web (front-end and full-stack) and game development projects.
