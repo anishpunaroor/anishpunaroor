@@ -1,6 +1,6 @@
 # Hello, I’m Anish Punaroor! 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fSe277unKt9XavTE5W/giphy.gif)
 
 
 I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
