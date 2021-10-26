@@ -11,7 +11,9 @@ Outside of school and work, I enjoy going on hikes, spending time with my cats, 
 
 ## Involvements
 
-- Currently, I am an instructor at [theCoderSchool](https://www.thecoderschool.com/), where I teach clients programming concepts and introduce them to game and web development in languages such as Java, Python, JavaScript, and Lua.  
+- Currrently I am developing a React Native mobile application for Niiti, a Chicao-based startup. 
+
+- I am an instructor at [theCoderSchool](https://www.thecoderschool.com/), where I teach clients programming concepts and introduce them to game and web development in languages such as Java, Python, JavaScript, and Lua.  
 
 <!---
 theRealAnishP/theRealAnishP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
