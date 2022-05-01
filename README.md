@@ -6,12 +6,12 @@ Recently, I've been working on web (front-end and full-stack) and game developme
 
 Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family. Thanks for viewing my profile!
 
-
+<!--
 ## Involvements
 
 - Currrently I am developing a React Native mobile application for Niiti, a Chicago-based startup. 
 
-- I am an instructor at [theCoderSchool](https://www.thecoderschool.com/), where I teach clients programming concepts and introduce them to game and web development in languages such as Java, Python, JavaScript, and Lua.  
+- I am an instructor at [theCoderSchool](https://www.thecoderschool.com/), where I teach clients programming concepts and introduce them to game and web development in languages such as Java, Python, JavaScript, and Lua.   -->
 
 <!---
 theRealAnishP/theRealAnishP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
