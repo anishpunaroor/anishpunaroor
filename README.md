@@ -2,9 +2,7 @@
 
 I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
 
-Recently, I've been working on web (front-end and full-stack) and game development projects.
-
-Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family. Thanks for viewing my profile!
+Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family.
 
 <!--
 ## Involvements
