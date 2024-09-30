@@ -1,10 +1,10 @@
-# Hello, I’m Anish Punaroor! 
+<!-- # Hello, I’m Anish Punaroor! 
 
 I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
 
 Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family.
 
-<!--
+
 ## Involvements
 
 - Currrently I am developing a React Native mobile application for Niiti, a Chicago-based startup. 
