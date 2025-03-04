@@ -1,6 +1,6 @@
 # Hello, I’m Anish Punaroor! 
 
-I'm a software engineer at American Express, working om improving internal tools for creating and managing employment documents.
+I'm a software engineer at American Express, working on developing internal tools for creating and managing Amex employee documents.
 
 Outside of work, I enjoy reading sci-fi and history, training for marathons, and cooking food.
 
