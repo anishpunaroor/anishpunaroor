@@ -1,15 +1,8 @@
-<!-- # Hello, I’m Anish Punaroor! 
+# Hello, I’m Anish Punaroor! 
 
-I'm a third year computer engineering major at [UC San Diego](https://ece.ucsd.edu/). 
+I'm a software engineer at American Express, working om improving internal tools for creating and managing employment documents.
 
-Outside of school and work, I enjoy going on hikes, spending time with my cats, and cooking food for my friends and family.
-
-
-## Involvements
-
-- Currrently I am developing a React Native mobile application for Niiti, a Chicago-based startup. 
-
-- I am an instructor at [theCoderSchool](https://www.thecoderschool.com/), where I teach clients programming concepts and introduce them to game and web development in languages such as Java, Python, JavaScript, and Lua.   -->
+Outside of work, I enjoy reading sci-fi and history, training for marathons, and cooking food.
 
 <!---
 theRealAnishP/theRealAnishP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
